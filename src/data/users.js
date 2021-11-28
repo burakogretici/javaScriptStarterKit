@@ -51,7 +51,7 @@ export const users = [
             city: "İstanbul",
             age: 17,
             salary: 15000,
-            type: "employee"
+            type: "employe"
         }
 
 ]
