@@ -18,7 +18,7 @@ for (const user of users) {
             this.employees.push(user)
             break;
         default:
-            this.errors.push("Wrong user type")
+            this.errors.push("Wrong user type!")
             break;
     }
     }
